@@ -1,0 +1,15 @@
+blinker
+certifi
+click
+colorama
+dnspython
+flask
+importlib-metadata
+itsdangerous
+Jinja2
+MarkupSafe
+pymongo
+python-dotenv
+werkzeug
+zipp
+urllib3==1.26.6
